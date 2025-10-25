@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RashmiWijemanna.RashmiWijemanna&right_color=violet&left_text=Profile%20Views%20%20%20"  />
+</div>
 # 👋 Hi, I'm Rashmi Wijemanna
 
 🎓 Software Engineering Student | 💻 Learning Web & Java Development  
@@ -16,6 +19,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=rashmiwijemanna&theme=dark)
 
 ---
+
 
 ⭐ Keep checking back for more projects!
 
