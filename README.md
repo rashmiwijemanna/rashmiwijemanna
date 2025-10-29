@@ -39,7 +39,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Java, Python, React, MySql**
 
 - 📫 How to reach me **rashmiwijemanna7@gmail.com**
 
