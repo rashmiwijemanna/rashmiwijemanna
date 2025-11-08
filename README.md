@@ -37,13 +37,12 @@
 <br><br>
 
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Flutter** & **React**
 
-- 💬 Ask me about **Java, Python, React, MySql**
+- 💬 Ask me about **Java, Python,MySql**
 
 - 📫 How to reach me **rashmiwijemanna7@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
 
   
 
