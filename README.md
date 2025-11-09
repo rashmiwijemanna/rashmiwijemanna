@@ -9,8 +9,8 @@
  <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RashmiWijemanna.RashmiWijemanna&right_color=violet&left_text=Profile%20Views%20%20%20"  />
 </div>
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+ <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
+ <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97">
 </p>
 
 <div align="center">
